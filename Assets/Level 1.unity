@@ -207,6 +207,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Directional Light
       objectReference: {fileID: 0}
+    - target: {fileID: 6794097252043876594, guid: 99cd5d017c623fc4ca985fc57d2b1308,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.x
+      value: 1.711e-42
+      objectReference: {fileID: 0}
+    - target: {fileID: 6794097252043876594, guid: 99cd5d017c623fc4ca985fc57d2b1308,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.y
+      value: 1.02e-43
+      objectReference: {fileID: 0}
     - target: {fileID: 6794097252043876595, guid: 99cd5d017c623fc4ca985fc57d2b1308,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -262,16 +272,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -60
       objectReference: {fileID: 0}
-    - target: {fileID: 6794097252043876594, guid: 99cd5d017c623fc4ca985fc57d2b1308,
-        type: 3}
-      propertyPath: m_BoundingSphereOverride.x
-      value: 1.711e-42
-      objectReference: {fileID: 0}
-    - target: {fileID: 6794097252043876594, guid: 99cd5d017c623fc4ca985fc57d2b1308,
-        type: 3}
-      propertyPath: m_BoundingSphereOverride.y
-      value: 1.02e-43
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99cd5d017c623fc4ca985fc57d2b1308, type: 3}
 --- !u!1001 &8513219611725809051
@@ -294,7 +294,7 @@ PrefabInstance:
     - target: {fileID: 8513219610902476764, guid: e2a6e77ae51b067459a67150e8b7f5eb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -15
       objectReference: {fileID: 0}
     - target: {fileID: 8513219610902476764, guid: e2a6e77ae51b067459a67150e8b7f5eb,
         type: 3}
@@ -363,7 +363,7 @@ PrefabInstance:
     - target: {fileID: 516015816745943973, guid: 881827eead6d3c04ebcaf6fac1c1a134,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 516015816745943973, guid: 881827eead6d3c04ebcaf6fac1c1a134,
         type: 3}
